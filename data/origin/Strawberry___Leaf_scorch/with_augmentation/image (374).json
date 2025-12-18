@@ -1,0 +1,113 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 1899674465,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (374).JPG",
+      "size": 17096,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 3635382473,
+      "image_id": 1899674465,
+      "category_id": 1000000027,
+      "segmentation": [],
+      "area": 17010,
+      "bbox": [
+        0,
+        0,
+        256,
+        174
+      ]
+    },
+    {
+      "id": 3674867473,
+      "image_id": 1899674465,
+      "category_id": 1000000027,
+      "segmentation": [],
+      "area": 157,
+      "bbox": [
+        0,
+        135,
+        20,
+        12
+      ]
+    },
+    {
+      "id": 4092412473,
+      "image_id": 1899674465,
+      "category_id": 1000000027,
+      "segmentation": [],
+      "area": 113,
+      "bbox": [
+        68,
+        106,
+        13,
+        17
+      ]
+    },
+    {
+      "id": 8804004473,
+      "image_id": 1899674465,
+      "category_id": 1000000027,
+      "segmentation": [],
+      "area": 205,
+      "bbox": [
+        186,
+        79,
+        38,
+        14
+      ]
+    },
+    {
+      "id": 7759765473,
+      "image_id": 1899674465,
+      "category_id": 1000000027,
+      "segmentation": [],
+      "area": 463,
+      "bbox": [
+        81,
+        4,
+        23,
+        31
+      ]
+    },
+    {
+      "id": 9065533473,
+      "image_id": 1899674465,
+      "category_id": 1000000027,
+      "segmentation": [],
+      "area": 107,
+      "bbox": [
+        240,
+        0,
+        16,
+        9
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1000000027,
+      "name": "Leaf_scorch",
+      "supercategory": "Strawberry"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 9295782820,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (799).JPG",
+      "size": 22103,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 3674079830,
+      "image_id": 9295782820,
+      "category_id": 1000000027,
+      "segmentation": [],
+      "area": 15493,
+      "bbox": [
+        13,
+        0,
+        221,
+        243
+      ]
+    },
+    {
+      "id": 9839011830,
+      "image_id": 9295782820,
+      "category_id": 1000000027,
+      "segmentation": [],
+      "area": 654,
+      "bbox": [
+        71,
+        175,
+        32,
+        49
+      ]
+    },
+    {
+      "id": 6133097830,
+      "image_id": 9295782820,
+      "category_id": 1000000027,
+      "segmentation": [],
+      "area": 230,
+      "bbox": [
+        46,
+        152,
+        34,
+        29
+      ]
+    },
+    {
+      "id": 2464174830,
+      "image_id": 9295782820,
+      "category_id": 1000000027,
+      "segmentation": [],
+      "area": 193,
+      "bbox": [
+        90,
+        52,
+        19,
+        21
+      ]
+    },
+    {
+      "id": 5937972830,
+      "image_id": 9295782820,
+      "category_id": 1000000027,
+      "segmentation": [],
+      "area": 1160,
+      "bbox": [
+        29,
+        6,
+        90,
+        46
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1000000027,
+      "name": "Leaf_scorch",
+      "supercategory": "Strawberry"
+    }
+  ]
+}

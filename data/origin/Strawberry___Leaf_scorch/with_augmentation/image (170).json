@@ -1,0 +1,243 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 1084837845,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (170).JPG",
+      "size": 21999,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 9427299853,
+      "image_id": 1084837845,
+      "category_id": 1000000027,
+      "segmentation": [],
+      "area": 6203,
+      "bbox": [
+        9,
+        28,
+        187,
+        208
+      ]
+    },
+    {
+      "id": 5348727853,
+      "image_id": 1084837845,
+      "category_id": 1000000027,
+      "segmentation": [],
+      "area": 120,
+      "bbox": [
+        73,
+        187,
+        13,
+        16
+      ]
+    },
+    {
+      "id": 7860341853,
+      "image_id": 1084837845,
+      "category_id": 1000000027,
+      "segmentation": [],
+      "area": 752,
+      "bbox": [
+        127,
+        133,
+        34,
+        45
+      ]
+    },
+    {
+      "id": 7592141853,
+      "image_id": 1084837845,
+      "category_id": 1000000027,
+      "segmentation": [],
+      "area": 293,
+      "bbox": [
+        74,
+        149,
+        26,
+        27
+      ]
+    },
+    {
+      "id": 5671471853,
+      "image_id": 1084837845,
+      "category_id": 1000000027,
+      "segmentation": [],
+      "area": 483,
+      "bbox": [
+        212,
+        78,
+        30,
+        97
+      ]
+    },
+    {
+      "id": 7772053853,
+      "image_id": 1084837845,
+      "category_id": 1000000027,
+      "segmentation": [],
+      "area": 295,
+      "bbox": [
+        104,
+        128,
+        18,
+        36
+      ]
+    },
+    {
+      "id": 3345694853,
+      "image_id": 1084837845,
+      "category_id": 1000000027,
+      "segmentation": [],
+      "area": 126,
+      "bbox": [
+        154,
+        135,
+        12,
+        15
+      ]
+    },
+    {
+      "id": 1146511853,
+      "image_id": 1084837845,
+      "category_id": 1000000027,
+      "segmentation": [],
+      "area": 114,
+      "bbox": [
+        112,
+        128,
+        12,
+        14
+      ]
+    },
+    {
+      "id": 7809636853,
+      "image_id": 1084837845,
+      "category_id": 1000000027,
+      "segmentation": [],
+      "area": 134,
+      "bbox": [
+        185,
+        90,
+        13,
+        18
+      ]
+    },
+    {
+      "id": 6156919853,
+      "image_id": 1084837845,
+      "category_id": 1000000027,
+      "segmentation": [],
+      "area": 109,
+      "bbox": [
+        108,
+        83,
+        15,
+        13
+      ]
+    },
+    {
+      "id": 8963734853,
+      "image_id": 1084837845,
+      "category_id": 1000000027,
+      "segmentation": [],
+      "area": 144,
+      "bbox": [
+        137,
+        72,
+        15,
+        19
+      ]
+    },
+    {
+      "id": 2631898853,
+      "image_id": 1084837845,
+      "category_id": 1000000027,
+      "segmentation": [],
+      "area": 129,
+      "bbox": [
+        207,
+        70,
+        18,
+        20
+      ]
+    },
+    {
+      "id": 5353034853,
+      "image_id": 1084837845,
+      "category_id": 1000000027,
+      "segmentation": [],
+      "area": 104,
+      "bbox": [
+        70,
+        61,
+        14,
+        11
+      ]
+    },
+    {
+      "id": 4279041853,
+      "image_id": 1084837845,
+      "category_id": 1000000027,
+      "segmentation": [],
+      "area": 170,
+      "bbox": [
+        192,
+        42,
+        31,
+        26
+      ]
+    },
+    {
+      "id": 8225813853,
+      "image_id": 1084837845,
+      "category_id": 1000000027,
+      "segmentation": [],
+      "area": 105,
+      "bbox": [
+        143,
+        48,
+        9,
+        17
+      ]
+    },
+    {
+      "id": 2673298853,
+      "image_id": 1084837845,
+      "category_id": 1000000027,
+      "segmentation": [],
+      "area": 373,
+      "bbox": [
+        156,
+        35,
+        37,
+        30
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1000000027,
+      "name": "Leaf_scorch",
+      "supercategory": "Strawberry"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "no_augmentation",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "leaf_info": {
+      "leaf_number": 37.0,
+      "source": "plant_village_classification",
+      "original_filename": "RS_L.Scorch 1213.JPG"
+    }
+  },
+  "images": [
+    {
+      "id": 8250581228,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (368).JPG",
+      "size": 21331,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success",
+      "original_filename": "RS_L.Scorch 1213.JPG",
+      "pvc_filename": "64dabc80-1652-4098-89c2-64bd594988e4___RS_L.Scorch 1213.JPG"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 2839569237,
+      "image_id": 8250581228,
+      "category_id": 2000000027,
+      "segmentation": [],
+      "area": 16424,
+      "bbox": [
+        18,
+        18,
+        219,
+        222
+      ]
+    },
+    {
+      "id": 2446688237,
+      "image_id": 8250581228,
+      "category_id": 2000000027,
+      "segmentation": [],
+      "area": 107,
+      "bbox": [
+        64,
+        136,
+        12,
+        12
+      ]
+    },
+    {
+      "id": 5804653237,
+      "image_id": 8250581228,
+      "category_id": 2000000027,
+      "segmentation": [],
+      "area": 300,
+      "bbox": [
+        112,
+        116,
+        23,
+        24
+      ]
+    },
+    {
+      "id": 2759262237,
+      "image_id": 8250581228,
+      "category_id": 2000000027,
+      "segmentation": [],
+      "area": 118,
+      "bbox": [
+        93,
+        75,
+        16,
+        16
+      ]
+    },
+    {
+      "id": 5773663237,
+      "image_id": 8250581228,
+      "category_id": 2000000027,
+      "segmentation": [],
+      "area": 157,
+      "bbox": [
+        156,
+        79,
+        19,
+        13
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 2000000027,
+      "name": "Leaf_scorch",
+      "supercategory": "Strawberry"
+    }
+  ]
+}

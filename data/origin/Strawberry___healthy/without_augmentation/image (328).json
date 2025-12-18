@@ -1,0 +1,94 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "no_augmentation",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "leaf_info": {
+      "leaf_number": 73.0,
+      "source": "plant_village_classification",
+      "original_filename": "RS_HL 4426.JPG"
+    }
+  },
+  "images": [
+    {
+      "id": 5006880476,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (328).JPG",
+      "size": 21115,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success",
+      "original_filename": "RS_HL 4426.JPG",
+      "pvc_filename": "b798b952-bd98-4484-915d-90f15362d84b___RS_HL 4426.JPG"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 4156635486,
+      "image_id": 5006880476,
+      "category_id": 2000000026,
+      "segmentation": [],
+      "area": 151,
+      "bbox": [
+        93,
+        167,
+        21,
+        45
+      ]
+    },
+    {
+      "id": 8834874486,
+      "image_id": 5006880476,
+      "category_id": 2000000026,
+      "segmentation": [],
+      "area": 4410,
+      "bbox": [
+        161,
+        30,
+        95,
+        168
+      ]
+    },
+    {
+      "id": 2225029486,
+      "image_id": 5006880476,
+      "category_id": 2000000026,
+      "segmentation": [],
+      "area": 160,
+      "bbox": [
+        43,
+        127,
+        12,
+        43
+      ]
+    },
+    {
+      "id": 6315697486,
+      "image_id": 5006880476,
+      "category_id": 2000000026,
+      "segmentation": [],
+      "area": 301,
+      "bbox": [
+        41,
+        83,
+        28,
+        29
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 2000000026,
+      "name": "healthy",
+      "supercategory": "Strawberry"
+    }
+  ]
+}

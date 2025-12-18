@@ -1,0 +1,152 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 4102675377,
+      "width": 204,
+      "height": 204,
+      "file_name": "image (660).JPG",
+      "size": 10764,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 5883216384,
+      "image_id": 4102675377,
+      "category_id": 1000000026,
+      "segmentation": [],
+      "area": 288,
+      "bbox": [
+        139,
+        162,
+        22,
+        42
+      ]
+    },
+    {
+      "id": 7948602384,
+      "image_id": 4102675377,
+      "category_id": 1000000026,
+      "segmentation": [],
+      "area": 164,
+      "bbox": [
+        9,
+        149,
+        12,
+        25
+      ]
+    },
+    {
+      "id": 3984609384,
+      "image_id": 4102675377,
+      "category_id": 1000000026,
+      "segmentation": [],
+      "area": 228,
+      "bbox": [
+        3,
+        108,
+        17,
+        32
+      ]
+    },
+    {
+      "id": 8320145384,
+      "image_id": 4102675377,
+      "category_id": 1000000026,
+      "segmentation": [],
+      "area": 343,
+      "bbox": [
+        76,
+        101,
+        51,
+        25
+      ]
+    },
+    {
+      "id": 3807819384,
+      "image_id": 4102675377,
+      "category_id": 1000000026,
+      "segmentation": [],
+      "area": 198,
+      "bbox": [
+        14,
+        67,
+        19,
+        31
+      ]
+    },
+    {
+      "id": 2187118384,
+      "image_id": 4102675377,
+      "category_id": 1000000026,
+      "segmentation": [],
+      "area": 372,
+      "bbox": [
+        168,
+        11,
+        36,
+        35
+      ]
+    },
+    {
+      "id": 3487696384,
+      "image_id": 4102675377,
+      "category_id": 1000000026,
+      "segmentation": [],
+      "area": 300,
+      "bbox": [
+        49,
+        25,
+        37,
+        17
+      ]
+    },
+    {
+      "id": 5474706384,
+      "image_id": 4102675377,
+      "category_id": 1000000026,
+      "segmentation": [],
+      "area": 130,
+      "bbox": [
+        87,
+        18,
+        30,
+        16
+      ]
+    },
+    {
+      "id": 1194420384,
+      "image_id": 4102675377,
+      "category_id": 1000000026,
+      "segmentation": [],
+      "area": 294,
+      "bbox": [
+        124,
+        5,
+        44,
+        27
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1000000026,
+      "name": "healthy",
+      "supercategory": "Strawberry"
+    }
+  ]
+}

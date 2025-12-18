@@ -1,0 +1,113 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 7137937543,
+      "width": 204,
+      "height": 204,
+      "file_name": "image (985).JPG",
+      "size": 16219,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 2733551553,
+      "image_id": 7137937543,
+      "category_id": 1000000026,
+      "segmentation": [],
+      "area": 235,
+      "bbox": [
+        94,
+        166,
+        51,
+        23
+      ]
+    },
+    {
+      "id": 6508755553,
+      "image_id": 7137937543,
+      "category_id": 1000000026,
+      "segmentation": [],
+      "area": 101,
+      "bbox": [
+        3,
+        126,
+        18,
+        29
+      ]
+    },
+    {
+      "id": 8551608553,
+      "image_id": 7137937543,
+      "category_id": 1000000026,
+      "segmentation": [],
+      "area": 121,
+      "bbox": [
+        2,
+        70,
+        17,
+        50
+      ]
+    },
+    {
+      "id": 1548302553,
+      "image_id": 7137937543,
+      "category_id": 1000000026,
+      "segmentation": [],
+      "area": 346,
+      "bbox": [
+        18,
+        0,
+        78,
+        66
+      ]
+    },
+    {
+      "id": 5066191553,
+      "image_id": 7137937543,
+      "category_id": 1000000026,
+      "segmentation": [],
+      "area": 137,
+      "bbox": [
+        156,
+        0,
+        29,
+        41
+      ]
+    },
+    {
+      "id": 9567998553,
+      "image_id": 7137937543,
+      "category_id": 1000000026,
+      "segmentation": [],
+      "area": 108,
+      "bbox": [
+        132,
+        7,
+        9,
+        16
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1000000026,
+      "name": "healthy",
+      "supercategory": "Strawberry"
+    }
+  ]
+}

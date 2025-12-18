@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 5912357436,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (255).JPG",
+      "size": 18130,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 5395757445,
+      "image_id": 5912357436,
+      "category_id": 1000000026,
+      "segmentation": [],
+      "area": 121,
+      "bbox": [
+        81,
+        208,
+        27,
+        15
+      ]
+    },
+    {
+      "id": 7999414445,
+      "image_id": 5912357436,
+      "category_id": 1000000026,
+      "segmentation": [],
+      "area": 939,
+      "bbox": [
+        23,
+        64,
+        53,
+        148
+      ]
+    },
+    {
+      "id": 4052116445,
+      "image_id": 5912357436,
+      "category_id": 1000000026,
+      "segmentation": [],
+      "area": 257,
+      "bbox": [
+        147,
+        26,
+        14,
+        35
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1000000026,
+      "name": "healthy",
+      "supercategory": "Strawberry"
+    }
+  ]
+}
