@@ -1,0 +1,87 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8091948752,
+      "width": 204,
+      "height": 204,
+      "file_name": "image (692).JPG",
+      "size": 16302,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 3139863762,
+      "image_id": 8091948752,
+      "category_id": 1000000026,
+      "segmentation": [],
+      "area": 124,
+      "bbox": [
+        151,
+        188,
+        18,
+        12
+      ]
+    },
+    {
+      "id": 1801084762,
+      "image_id": 8091948752,
+      "category_id": 1000000026,
+      "segmentation": [],
+      "area": 725,
+      "bbox": [
+        155,
+        0,
+        49,
+        41
+      ]
+    },
+    {
+      "id": 4168566762,
+      "image_id": 8091948752,
+      "category_id": 1000000026,
+      "segmentation": [],
+      "area": 942,
+      "bbox": [
+        0,
+        0,
+        62,
+        40
+      ]
+    },
+    {
+      "id": 8639470762,
+      "image_id": 8091948752,
+      "category_id": 1000000026,
+      "segmentation": [],
+      "area": 205,
+      "bbox": [
+        128,
+        0,
+        28,
+        18
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1000000026,
+      "name": "healthy",
+      "supercategory": "Strawberry"
+    }
+  ]
+}

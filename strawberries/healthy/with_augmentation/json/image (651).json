@@ -1,0 +1,126 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 7969952259,
+      "width": 204,
+      "height": 204,
+      "file_name": "image (651).JPG",
+      "size": 17318,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 6350143271,
+      "image_id": 7969952259,
+      "category_id": 1000000026,
+      "segmentation": [],
+      "area": 164,
+      "bbox": [
+        156,
+        154,
+        36,
+        26
+      ]
+    },
+    {
+      "id": 4262171271,
+      "image_id": 7969952259,
+      "category_id": 1000000026,
+      "segmentation": [],
+      "area": 126,
+      "bbox": [
+        36,
+        130,
+        18,
+        15
+      ]
+    },
+    {
+      "id": 3830845271,
+      "image_id": 7969952259,
+      "category_id": 1000000026,
+      "segmentation": [],
+      "area": 155,
+      "bbox": [
+        18,
+        104,
+        15,
+        20
+      ]
+    },
+    {
+      "id": 9212023271,
+      "image_id": 7969952259,
+      "category_id": 1000000026,
+      "segmentation": [],
+      "area": 375,
+      "bbox": [
+        0,
+        20,
+        18,
+        82
+      ]
+    },
+    {
+      "id": 9480774271,
+      "image_id": 7969952259,
+      "category_id": 1000000026,
+      "segmentation": [],
+      "area": 272,
+      "bbox": [
+        173,
+        22,
+        21,
+        62
+      ]
+    },
+    {
+      "id": 4513075271,
+      "image_id": 7969952259,
+      "category_id": 1000000026,
+      "segmentation": [],
+      "area": 175,
+      "bbox": [
+        145,
+        24,
+        19,
+        41
+      ]
+    },
+    {
+      "id": 3709959271,
+      "image_id": 7969952259,
+      "category_id": 1000000026,
+      "segmentation": [],
+      "area": 155,
+      "bbox": [
+        121,
+        21,
+        16,
+        40
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1000000026,
+      "name": "healthy",
+      "supercategory": "Strawberry"
+    }
+  ]
+}

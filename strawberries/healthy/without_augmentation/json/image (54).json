@@ -1,0 +1,107 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "no_augmentation",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "leaf_info": {
+      "leaf_number": 76.0,
+      "source": "plant_village_classification",
+      "original_filename": "RS_HL 4469.JPG"
+    }
+  },
+  "images": [
+    {
+      "id": 9958999141,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (54).JPG",
+      "size": 18986,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success",
+      "original_filename": "RS_HL 4469.JPG",
+      "pvc_filename": "4d24a8c7-2a7a-4598-a673-e6c1e856dc23___RS_HL 4469.JPG"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1409965151,
+      "image_id": 9958999141,
+      "category_id": 2000000026,
+      "segmentation": [],
+      "area": 500,
+      "bbox": [
+        110,
+        216,
+        60,
+        27
+      ]
+    },
+    {
+      "id": 3654713151,
+      "image_id": 9958999141,
+      "category_id": 2000000026,
+      "segmentation": [],
+      "area": 1200,
+      "bbox": [
+        13,
+        98,
+        90,
+        137
+      ]
+    },
+    {
+      "id": 3884160151,
+      "image_id": 9958999141,
+      "category_id": 2000000026,
+      "segmentation": [],
+      "area": 201,
+      "bbox": [
+        165,
+        214,
+        29,
+        16
+      ]
+    },
+    {
+      "id": 5435182151,
+      "image_id": 9958999141,
+      "category_id": 2000000026,
+      "segmentation": [],
+      "area": 4139,
+      "bbox": [
+        131,
+        16,
+        122,
+        207
+      ]
+    },
+    {
+      "id": 7939452151,
+      "image_id": 9958999141,
+      "category_id": 2000000026,
+      "segmentation": [],
+      "area": 181,
+      "bbox": [
+        109,
+        13,
+        12,
+        38
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 2000000026,
+      "name": "healthy",
+      "supercategory": "Strawberry"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "no_augmentation",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "leaf_info": {}
+  },
+  "images": [
+    {
+      "id": 4158676548,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (395).JPG",
+      "size": 13773,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success",
+      "original_filename": "RS_L.Scorch 9995.JPG",
+      "pvc_filename": "79d1eb82-6017-447a-b43f-3c477c26bd42___RS_L.Scorch 9995.JPG"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 7015635556,
+      "image_id": 4158676548,
+      "category_id": 2000000027,
+      "segmentation": [],
+      "area": 20083,
+      "bbox": [
+        48,
+        26,
+        208,
+        230
+      ]
+    },
+    {
+      "id": 1599785556,
+      "image_id": 4158676548,
+      "category_id": 2000000027,
+      "segmentation": [],
+      "area": 590,
+      "bbox": [
+        222,
+        213,
+        34,
+        43
+      ]
+    },
+    {
+      "id": 1823091556,
+      "image_id": 4158676548,
+      "category_id": 2000000027,
+      "segmentation": [],
+      "area": 1856,
+      "bbox": [
+        0,
+        166,
+        47,
+        59
+      ]
+    },
+    {
+      "id": 3623032556,
+      "image_id": 4158676548,
+      "category_id": 2000000027,
+      "segmentation": [],
+      "area": 165,
+      "bbox": [
+        241,
+        155,
+        15,
+        27
+      ]
+    },
+    {
+      "id": 1529130556,
+      "image_id": 4158676548,
+      "category_id": 2000000027,
+      "segmentation": [],
+      "area": 167,
+      "bbox": [
+        182,
+        93,
+        29,
+        16
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 2000000027,
+      "name": "Leaf_scorch",
+      "supercategory": "Strawberry"
+    }
+  ]
+}

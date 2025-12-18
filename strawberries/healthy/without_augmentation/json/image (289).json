@@ -1,0 +1,55 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "no_augmentation",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "leaf_info": {
+      "leaf_number": 56.0,
+      "source": "plant_village_classification",
+      "original_filename": "RS_HL 2181.JPG"
+    }
+  },
+  "images": [
+    {
+      "id": 2094671925,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (289).JPG",
+      "size": 20187,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success",
+      "original_filename": "RS_HL 2181.JPG",
+      "pvc_filename": "a2a51632-4ca8-4579-8a75-f2b4188e1f59___RS_HL 2181.JPG"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 3401062933,
+      "image_id": 2094671925,
+      "category_id": 2000000026,
+      "segmentation": [],
+      "area": 9156,
+      "bbox": [
+        21,
+        11,
+        235,
+        227
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 2000000026,
+      "name": "healthy",
+      "supercategory": "Strawberry"
+    }
+  ]
+}

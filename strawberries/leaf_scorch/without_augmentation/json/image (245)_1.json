@@ -1,0 +1,55 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "no_augmentation",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "leaf_info": {
+      "leaf_number": 17.0,
+      "source": "plant_village_classification",
+      "original_filename": "RS_L.Scorch 1007.JPG"
+    }
+  },
+  "images": [
+    {
+      "id": 8611803736,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (245).JPG",
+      "size": 21611,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success",
+      "original_filename": "RS_L.Scorch 1007.JPG",
+      "pvc_filename": "8c787d8d-2cf5-462b-8695-cb881f9e59fe___RS_L.Scorch 1007.JPG"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1180338742,
+      "image_id": 8611803736,
+      "category_id": 2000000027,
+      "segmentation": [],
+      "area": 29086,
+      "bbox": [
+        16,
+        11,
+        224,
+        223
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 2000000027,
+      "name": "Leaf_scorch",
+      "supercategory": "Strawberry"
+    }
+  ]
+}

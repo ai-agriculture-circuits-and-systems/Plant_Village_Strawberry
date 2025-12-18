@@ -1,0 +1,133 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "no_augmentation",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "leaf_info": {
+      "leaf_number": 37.0,
+      "source": "plant_village_classification",
+      "original_filename": "RS_L.Scorch 1218.JPG"
+    }
+  },
+  "images": [
+    {
+      "id": 2752415688,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (407).JPG",
+      "size": 22473,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success",
+      "original_filename": "RS_L.Scorch 1218.JPG",
+      "pvc_filename": "85e9bd6d-29f1-4ee1-a5ba-d2d35ee8d440___RS_L.Scorch 1218.JPG"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 2916789696,
+      "image_id": 2752415688,
+      "category_id": 2000000027,
+      "segmentation": [],
+      "area": 19090,
+      "bbox": [
+        60,
+        15,
+        196,
+        230
+      ]
+    },
+    {
+      "id": 7401953696,
+      "image_id": 2752415688,
+      "category_id": 2000000027,
+      "segmentation": [],
+      "area": 148,
+      "bbox": [
+        31,
+        160,
+        33,
+        25
+      ]
+    },
+    {
+      "id": 9132729696,
+      "image_id": 2752415688,
+      "category_id": 2000000027,
+      "segmentation": [],
+      "area": 297,
+      "bbox": [
+        48,
+        132,
+        22,
+        34
+      ]
+    },
+    {
+      "id": 9814422696,
+      "image_id": 2752415688,
+      "category_id": 2000000027,
+      "segmentation": [],
+      "area": 1853,
+      "bbox": [
+        9,
+        35,
+        50,
+        124
+      ]
+    },
+    {
+      "id": 4273604696,
+      "image_id": 2752415688,
+      "category_id": 2000000027,
+      "segmentation": [],
+      "area": 724,
+      "bbox": [
+        79,
+        124,
+        48,
+        34
+      ]
+    },
+    {
+      "id": 9916035696,
+      "image_id": 2752415688,
+      "category_id": 2000000027,
+      "segmentation": [],
+      "area": 179,
+      "bbox": [
+        80,
+        106,
+        24,
+        16
+      ]
+    },
+    {
+      "id": 1388122696,
+      "image_id": 2752415688,
+      "category_id": 2000000027,
+      "segmentation": [],
+      "area": 513,
+      "bbox": [
+        68,
+        53,
+        31,
+        48
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 2000000027,
+      "name": "Leaf_scorch",
+      "supercategory": "Strawberry"
+    }
+  ]
+}

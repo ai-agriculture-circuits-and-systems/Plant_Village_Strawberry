@@ -1,0 +1,116 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "no_augmentation",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "leaf_info": {}
+  },
+  "images": [
+    {
+      "id": 3067848326,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (294).JPG",
+      "size": 16710,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success",
+      "original_filename": "RS_L.Scorch 0025.JPG",
+      "pvc_filename": "12e66247-e91e-4fef-b1c8-b08793d1e4ad___RS_L.Scorch 0025.JPG"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 7402664333,
+      "image_id": 3067848326,
+      "category_id": 2000000027,
+      "segmentation": [],
+      "area": 141,
+      "bbox": [
+        121,
+        160,
+        10,
+        23
+      ]
+    },
+    {
+      "id": 4750278333,
+      "image_id": 3067848326,
+      "category_id": 2000000027,
+      "segmentation": [],
+      "area": 13831,
+      "bbox": [
+        0,
+        0,
+        182,
+        176
+      ]
+    },
+    {
+      "id": 7032294333,
+      "image_id": 3067848326,
+      "category_id": 2000000027,
+      "segmentation": [],
+      "area": 295,
+      "bbox": [
+        87,
+        147,
+        23,
+        20
+      ]
+    },
+    {
+      "id": 1068862333,
+      "image_id": 3067848326,
+      "category_id": 2000000027,
+      "segmentation": [],
+      "area": 160,
+      "bbox": [
+        180,
+        114,
+        13,
+        20
+      ]
+    },
+    {
+      "id": 1856449333,
+      "image_id": 3067848326,
+      "category_id": 2000000027,
+      "segmentation": [],
+      "area": 219,
+      "bbox": [
+        180,
+        85,
+        16,
+        27
+      ]
+    },
+    {
+      "id": 7941711333,
+      "image_id": 3067848326,
+      "category_id": 2000000027,
+      "segmentation": [],
+      "area": 278,
+      "bbox": [
+        179,
+        57,
+        19,
+        27
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 2000000027,
+      "name": "Leaf_scorch",
+      "supercategory": "Strawberry"
+    }
+  ]
+}

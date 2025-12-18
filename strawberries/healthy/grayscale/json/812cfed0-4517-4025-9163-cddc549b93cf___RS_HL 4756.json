@@ -1,0 +1,159 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "no_augmentation",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "leaf_info": {
+      "leaf_number": 104.0,
+      "source": "plant_village_classification",
+      "original_filename": "RS_HL 4756.JPG"
+    }
+  },
+  "images": [
+    {
+      "id": 6161095842,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (210).JPG",
+      "size": 17846,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success",
+      "original_filename": "RS_HL 4756.JPG",
+      "pvc_filename": "812cfed0-4517-4025-9163-cddc549b93cf___RS_HL 4756.JPG"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1549913850,
+      "image_id": 6161095842,
+      "category_id": 2000000026,
+      "segmentation": [],
+      "area": 1395,
+      "bbox": [
+        58,
+        180,
+        107,
+        67
+      ]
+    },
+    {
+      "id": 1389413850,
+      "image_id": 6161095842,
+      "category_id": 2000000026,
+      "segmentation": [],
+      "area": 1172,
+      "bbox": [
+        176,
+        160,
+        55,
+        72
+      ]
+    },
+    {
+      "id": 9071357850,
+      "image_id": 6161095842,
+      "category_id": 2000000026,
+      "segmentation": [],
+      "area": 304,
+      "bbox": [
+        136,
+        188,
+        14,
+        40
+      ]
+    },
+    {
+      "id": 7838906850,
+      "image_id": 6161095842,
+      "category_id": 2000000026,
+      "segmentation": [],
+      "area": 114,
+      "bbox": [
+        113,
+        190,
+        9,
+        22
+      ]
+    },
+    {
+      "id": 7881047850,
+      "image_id": 6161095842,
+      "category_id": 2000000026,
+      "segmentation": [],
+      "area": 1355,
+      "bbox": [
+        87,
+        84,
+        59,
+        98
+      ]
+    },
+    {
+      "id": 4709870850,
+      "image_id": 6161095842,
+      "category_id": 2000000026,
+      "segmentation": [],
+      "area": 218,
+      "bbox": [
+        11,
+        134,
+        17,
+        30
+      ]
+    },
+    {
+      "id": 5465780850,
+      "image_id": 6161095842,
+      "category_id": 2000000026,
+      "segmentation": [],
+      "area": 194,
+      "bbox": [
+        8,
+        97,
+        19,
+        40
+      ]
+    },
+    {
+      "id": 2843097850,
+      "image_id": 6161095842,
+      "category_id": 2000000026,
+      "segmentation": [],
+      "area": 104,
+      "bbox": [
+        23,
+        44,
+        12,
+        20
+      ]
+    },
+    {
+      "id": 9614378850,
+      "image_id": 6161095842,
+      "category_id": 2000000026,
+      "segmentation": [],
+      "area": 115,
+      "bbox": [
+        164,
+        41,
+        13,
+        15
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 2000000026,
+      "name": "healthy",
+      "supercategory": "Strawberry"
+    }
+  ]
+}

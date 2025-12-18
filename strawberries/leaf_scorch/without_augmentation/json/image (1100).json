@@ -1,0 +1,103 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "no_augmentation",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "leaf_info": {}
+  },
+  "images": [
+    {
+      "id": 1841771973,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (1100).JPG",
+      "size": 12481,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success",
+      "original_filename": "RS_L.Scorch 0079.JPG",
+      "pvc_filename": "fdbd115d-4709-42eb-90ce-278a33fc3e7e___RS_L.Scorch 0079.JPG"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1861358982,
+      "image_id": 1841771973,
+      "category_id": 2000000027,
+      "segmentation": [],
+      "area": 641,
+      "bbox": [
+        73,
+        78,
+        32,
+        45
+      ]
+    },
+    {
+      "id": 2547559982,
+      "image_id": 1841771973,
+      "category_id": 2000000027,
+      "segmentation": [],
+      "area": 1712,
+      "bbox": [
+        47,
+        0,
+        86,
+        61
+      ]
+    },
+    {
+      "id": 3620434982,
+      "image_id": 1841771973,
+      "category_id": 2000000027,
+      "segmentation": [],
+      "area": 181,
+      "bbox": [
+        84,
+        33,
+        12,
+        27
+      ]
+    },
+    {
+      "id": 1417899982,
+      "image_id": 1841771973,
+      "category_id": 2000000027,
+      "segmentation": [],
+      "area": 104,
+      "bbox": [
+        122,
+        31,
+        13,
+        13
+      ]
+    },
+    {
+      "id": 6794446982,
+      "image_id": 1841771973,
+      "category_id": 2000000027,
+      "segmentation": [],
+      "area": 448,
+      "bbox": [
+        141,
+        0,
+        24,
+        37
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 2000000027,
+      "name": "Leaf_scorch",
+      "supercategory": "Strawberry"
+    }
+  ]
+}
